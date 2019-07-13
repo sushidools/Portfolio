@@ -1,0 +1,96 @@
+.wrapper {
+  align-content: center;
+  height: 100%;
+  width: 100%;
+  background-color: #CAE4DB;
+}
+
+.intro {
+  height: 100vh;
+  min-width: 100%;
+}
+
+
+.title {
+  width: 50%;
+  height: 100vh;
+  display: inline-block;
+}
+.title h1 {
+  font-family: 'Stalemate';
+  font-weight: 100;
+  padding-left: 10%;
+  font-size: 125px;
+  color: #00303F;
+  text-shadow: 1.5px 1.5px #7A9D96;
+}
+
+
+.background-intro {
+  display: inline-block;
+  width: 49%;
+}
+.background-intro img {
+  width: 100%;
+  background-color: #CAE4DB;
+  opacity: .6;
+  background-attachment: fixed;
+  background-position: top right;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.album-menu {
+  background-color: #7A9D96;
+  height: 10vh;
+  display: block;
+  z-index: 3;
+}
+.album-menu h3{
+  color: #DCAE1D;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.photo-album {
+  min-width: 98%;
+  margin-left: 1%;
+  margin-right: 1%;
+  height: 100vh;
+
+  background-attachment: fixed;
+  background-position: top;
+  background-size: cover;
+  position: relative;
+  text-align: center;
+  margin: 0;
+}
+
+.photo-album h1 {
+  margin: 0;
+}
+
+.footer {
+  min-width: 100%;
+  height: 100vh;
+  background-color: grey;
+  background-attachment: fixed;
+  background-position: top;
+  background-size: cover;
+  position: relative;
+  text-align: center;
+}
+
+.footer h3 {
+  margin: 0;
+}

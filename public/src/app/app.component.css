@@ -3,6 +3,10 @@
   font-family: Stalemate;
   src: url(../assets/fonts/Stalemate/Stalemate-Regular.ttf) format("truetype");
 }
+@font-face {
+  font-family: Dosis;
+  src: url(../assets/fonts/Dosis/Dosis-Regular.ttf) format("truetype");
+}
 
 /* Navigation Bar */
 
