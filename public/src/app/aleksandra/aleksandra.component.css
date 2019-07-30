@@ -31,9 +31,9 @@
   height: 100vh;
   background-image: url('../../assets/img/altitude-clouds-cold-879443.jpg');
   background-attachment: fixed;
-  background-position: top;
+  background-position: right;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: ;
   position: relative;
 }
 

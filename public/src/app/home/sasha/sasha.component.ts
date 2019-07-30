@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { Title } from '@angular/platform-browser';
 
 @Component({
   selector: 'app-sasha',
@@ -8,9 +7,7 @@ import { Title } from '@angular/platform-browser';
 })
 export class SashaComponent implements OnInit {
 
-  constructor(title: Title) {
-    title.setTitle('Aleksandra Dooley');
-  }
+  constructor() { }
 
   ngOnInit() {
   }

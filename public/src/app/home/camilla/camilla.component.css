@@ -1,0 +1,14 @@
+/* Horizontal Scroll area */
+
+.scrolling-wrapper {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+
+  .polaroid {
+    background-color: white;
+    width: auto;
+    height: 50vh;
+  }
+}
